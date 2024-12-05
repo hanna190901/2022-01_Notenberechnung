@@ -1,0 +1,10 @@
+2
+5 2
+
+2.7 5  2.3 5  5 8  2.0 3  3.7 3
+
+3.0 10 2.3 30
+
+Note Modul 1: Keine Berechnung moeglich
+Note Modul 2: 2.4
+Bachelornote: 2.4 -> gut
