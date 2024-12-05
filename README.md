@@ -1,0 +1,2 @@
+# 2022-01_Notenberechnung
+BSc_Informatik1_Pruefungsvorleistung
